@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTcc</string>
+    <string name="mapbox_access_token">pk.SEU_TOKEN_PUBLICO_AQUI</string>
+</resources>
